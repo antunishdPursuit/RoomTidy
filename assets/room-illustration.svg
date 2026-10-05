@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="280" viewBox="0 0 420 280" role="img" aria-label="A tidy desk beside a window and a potted plant">
+  <rect width="420" height="280" rx="24" fill="#F7F8FC"/>
+  <path d="M32 224h356" stroke="#CBD3E3" stroke-width="2" stroke-linecap="round"/>
+  <rect x="241" y="30" width="123" height="117" rx="12" fill="#FFFFFF" stroke="#CBD3E3" stroke-width="3"/>
+  <rect x="250" y="39" width="105" height="99" rx="7" fill="#E8EDFF"/>
+  <circle cx="329" cy="62" r="12" fill="#FFFFFF"/>
+  <path d="M302 39v99M250 90h105" stroke="#FFFFFF" stroke-width="4"/>
+  <path d="M259 127l22-18 21 9 18-21 27 29" fill="none" stroke="#CBD3E3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="62" y="164" width="244" height="14" rx="7" fill="#4565C6"/>
+  <path d="M81 178v46M284 178v46" stroke="#4565C6" stroke-width="9" stroke-linecap="round"/>
+  <rect x="105" y="82" width="109" height="69" rx="9" fill="#202944"/>
+  <rect x="112" y="89" width="95" height="55" rx="4" fill="#E8EDFF"/>
+  <path d="M138 112h43M138 121h29" stroke="#4565C6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M159 151v12" stroke="#202944" stroke-width="7"/>
+  <path d="M139 164h40" stroke="#202944" stroke-width="5" stroke-linecap="round"/>
+  <rect x="225" y="143" width="37" height="8" rx="3" fill="#E8EDFF" stroke="#CBD3E3"/>
+  <rect x="229" y="153" width="40" height="9" rx="3" fill="#FFFFFF" stroke="#CBD3E3"/>
+  <path d="M340 176v-40" stroke="#23634C" stroke-width="4" stroke-linecap="round"/>
+  <path d="M339 153c-27-1-33-18-30-27 19-2 34 9 30 27M341 143c23-2 28-19 24-28-18 0-28 11-24 28" fill="#23634C"/>
+  <path d="M320 175h40l-7 43h-26z" fill="#E8EDFF" stroke="#4565C6" stroke-width="2" stroke-linejoin="round"/>
+  <path d="M317 176h46" stroke="#4565C6" stroke-width="5" stroke-linecap="round"/>
+  <path d="M53 53v12M47 59h12" stroke="#4565C6" stroke-width="3" stroke-linecap="round"/>
+</svg>
